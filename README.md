@@ -1,2 +1,2 @@
 # hello-world
-First step into world of Git
+This is a test of the Github revision system.  Hope I don't break anything!
